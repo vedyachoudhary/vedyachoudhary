@@ -65,6 +65,5 @@ Thank you for checking out my GitHub profile! Feel free to reach out to me for c
 ### Show ❤️ by 🌟 my [repositories](https://github.com/vedyachoudhary?tab=repositories)!
 
 </div>
----
 
 Credits: [Vedya Anaparthi](https://github.com/vedyachoudhary)
