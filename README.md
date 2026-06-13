@@ -45,7 +45,7 @@ Backend Software Engineer with **1+ year** of experience building production sys
 
 Currently at **[Trinova Technologies](https://github.com/vedyachoudhary)** working on **ARB MedManage** and **PreCert** — Spring Security, JWT, Azure, MySQL, JUnit, and Agile delivery with Jira & Bitbucket.
 
-🎓 **B.E. CSE** — Sathyabama Institute (CGPA **8.09**)  
+🎓 **B.E. CSE** — Sathyabama Institute of Science and Technologies (CGPA **8.09**)  
 📜 **Certifications** — Java Full Stack · SQL & Python · Angular JS  
 🌐 **Campus Ambassador** — TechLearn India  
 
